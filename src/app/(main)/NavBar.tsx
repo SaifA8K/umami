@@ -100,7 +100,7 @@ export function NavBar() {
         <Icon size="lg">
           <Icons.Logo />
         </Icon>
-        <Text>umami</Text>
+        <Text>a8k insights</Text>
       </div>
       <div className={styles.links}>
         {links.map(({ url, label }) => {
